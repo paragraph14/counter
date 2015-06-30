@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "they.know.who.is.the.strongest",
+    "longName": "counter",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "counter",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "6725fade-ff14-46ee-884a-be5956378edf",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
